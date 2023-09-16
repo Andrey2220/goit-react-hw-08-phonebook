@@ -10,14 +10,35 @@ const Home = () => {
     <SectionStyled>
       <WrapperPagePartStyled>
         <h1>
-          Welcome to the main page of the Phonebook app! Here, you'll find a
-          convenient and straightforward interface for storing and organizing
-          your contacts in a list. Use our app to quickly add, edit, and delete
-          contacts, as well as search for them by name. Phonebook makes managing
-          your contacts incredibly simple and user-friendly.
+        Make your life easier with a phone book!
         </h1>
+        <h2>
+        📱 Don't start any important contact, don't clog up your phone, and leave your phone book organized with our app! 📇
+        </h2>
+        <h3>
+        ✅ Advantages of the phone book:
+        </h3>
+        <ul>
+          <li>
+          📞 Easily add and manage contacts: no need to remember phone numbers and names anymore. Just add contacts to your phonebook and go to them in one click.
+          </li>
+          <li>
+          🔍 Quick search : With us you can easily find the contact you need among hundreds of others. Take advantage of powerful search and save time.
+          </li>
+          <li>
+          🌐 Sync with the cloud: Synchronize your phonebook with cloud services to have access to contact with any device and not lose any important number.
+          </li>
+          <li>
+          🛡️ Data protection: Your contacts are safe. The phonebook provides reliable storage and encryption of data.
+          </li>
+          <li>
+          🚀 Ease of use: The simple and straightforward interface makes our app accessible to everyone, even without using any apps.
+          </li>
+        </ul>
+        <h2>
+        Open the phone book today and make your life more organized and efficient! 📊
+        </h2>
         <LinkStyled to="/login">
-          <span>Let's go!</span>
         </LinkStyled>
       </WrapperPagePartStyled>
     </SectionStyled>
